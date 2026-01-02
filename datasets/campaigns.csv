@@ -1,0 +1,36 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,target_amount,campaign_status
+100,Syria Earthquake Emergency Appeal,Emergency Appeal,2023-02-26,2023-04-01,140443,Completed
+101,Gaza Crisis Emergency Appeal,Emergency Appeal,2024-03-26,2024-04-10,74636,Completed
+102,Pakistan Floods Emergency Appeal,Emergency Appeal,2024-08-10,2024-09-17,76971,Completed
+103,Turkey Relief Emergency Appeal,Emergency Appeal,2023-03-03,2023-04-13,102289,Completed
+104,Yemen Famine Emergency Appeal,Emergency Appeal,2024-04-17,2024-05-02,51791,Completed
+105,Somalia Drought Emergency Appeal,Emergency Appeal,2023-12-20,2024-01-20,102768,Completed
+106,Bangladesh Floods Emergency Appeal,Emergency Appeal,2024-09-03,2024-10-12,102063,Completed
+107,Sudan Conflict Emergency Appeal,Emergency Appeal,2024-09-11,2024-10-10,143809,Completed
+108,Regular Giving Campaign 2023,Regular Giving,2023-05-21,2023-09-07,46241,Completed
+109,Regular Giving Campaign 2023,Regular Giving,2023-08-12,2023-11-24,60226,Completed
+110,Regular Giving Campaign 2023,Regular Giving,2023-03-02,2023-05-02,62319,Completed
+111,Regular Giving Campaign 2024,Regular Giving,2023-04-21,2023-08-06,74642,Completed
+112,Regular Giving Campaign 2024,Regular Giving,2023-11-22,2024-02-23,30583,Completed
+113,Regular Giving Campaign 2024,Regular Giving,2023-01-28,2023-05-05,62471,Completed
+114,Water Projects Campaign 2023,Water Projects,2023-03-09,2023-04-25,67989,Completed
+115,Water Projects Campaign 2023,Water Projects,2023-02-19,2023-04-25,52581,Completed
+116,Water Projects Campaign 2023,Water Projects,2023-07-22,2023-09-05,36967,Completed
+117,Water Projects Campaign 2024,Water Projects,2023-08-10,2023-09-28,39122,Completed
+118,Water Projects Campaign 2024,Water Projects,2023-02-01,2023-04-23,74324,Completed
+119,Education Campaign 2023,Education,2024-02-20,2024-04-11,55030,Completed
+120,Education Campaign 2023,Education,2024-05-17,2024-07-04,38698,Completed
+121,Education Campaign 2023,Education,2024-07-08,2024-09-20,54480,Completed
+122,Education Campaign 2024,Education,2024-07-19,2024-08-30,31213,Completed
+123,Education Campaign 2024,Education,2023-09-07,2023-11-05,41958,Completed
+124,Health Campaign 2023,Health,2024-09-06,2024-11-21,20341,Completed
+125,Health Campaign 2023,Health,2024-08-14,2024-10-14,32222,Completed
+126,Health Campaign 2023,Health,2023-05-26,2023-07-28,41300,Completed
+127,Health Campaign 2024,Health,2024-07-08,2024-09-29,29265,Completed
+128,Ramadan 2023,Seasonal,2024-01-18,2024-02-11,32979,Completed
+129,Winter 2023,Seasonal,2023-12-31,2024-01-24,22377,Completed
+130,Eid 2024,Seasonal,2023-08-05,2023-08-22,42579,Completed
+131,Year-End 2024,Seasonal,2023-01-25,2023-02-14,35369,Completed
+132,Marathon Fundraiser,Events,2024-06-15,2024-06-16,17707,Completed
+133,Charity Gala,Events,2024-03-14,2024-03-16,27781,Completed
+134,Community Fun Run,Events,2024-07-28,2024-07-29,27950,Completed
